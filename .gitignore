@@ -11,8 +11,6 @@ node_modules
 dist
 dist-ssr
 # Material pessoal de apresentação (não faz parte da entrega)
-ROTEIRO.txt
-README.md
 *.local
 node_modules/
 
